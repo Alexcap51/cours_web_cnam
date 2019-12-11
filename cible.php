@@ -1,0 +1,1 @@
+<p> Bonjour <?php echo $_POST['prenom']; ?>, tu as <?php $_POST['age']; /></p>
